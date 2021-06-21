@@ -1,6 +1,3 @@
 # ahrffbr
 ## asgre
-<<<<<<< HEAD
-efcsdewf
-=======
->>>>>>> develop
+afe
